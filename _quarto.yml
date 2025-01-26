@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "template1"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+    logo: images/logo_tepak.png 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
