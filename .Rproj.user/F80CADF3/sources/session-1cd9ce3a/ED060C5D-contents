@@ -3,13 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "template1"
+  title: "Have A Box"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: ali.qmd
+        text: Muhammad Ali
+      - href: mike.qmd
+        text: Mike Tyson
+      - href: floyd.qmd
+        text: Floyd Mayweather
+      - href: alvarez.qmd
+        text: Canelo Álvarez
       - href: about.qmd
-    logo: images/logo_tepak.png 
+    logo: images/logo.png
 
 format:
   html:

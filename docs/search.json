@@ -7,10 +7,38 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "floyd.html",
+    "href": "floyd.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "mike.html",
+    "href": "mike.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "template1",
+    "title": "Have a Box",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Boxing is one of the oldest and most celebrated combat sports, combining skill, strategy, and raw physical power. Known as “the sweet science,” it challenges athletes to outthink and outmaneuver their opponents while delivering precision strikes. Over the years, boxing has evolved from bare-knuckle bouts to a highly regulated and popular sport with millions of fans worldwide.\nWhat makes boxing unique is its ability to produce legends who transcend the ring. These individuals captivate audiences not only with their athletic prowess but also with their charisma, dedication, and stories of triumph. In this series, we will delve into the lives and careers of some of the greatest boxers the world has ever known.\nBoxers Featured:\nMuhammad Ali Regarded as “The Greatest,” Muhammad Ali revolutionized the sport with his unmatched talent, poetic trash talk, and social activism. His influence extends far beyond the boxing world.\nMike Tyson With a fearsome reputation, Mike Tyson became the youngest heavyweight champion in history. Known for his explosive power and aggressive style, Tyson remains an iconic figure in boxing.\nFloyd Mayweather Known as “Money,” Floyd Mayweather boasts an undefeated record and is celebrated for his defensive brilliance and technical precision. His career redefined financial success in the sport.\nCanelo Álvarez A modern-day boxing sensation, Canelo Álvarez is known for his exceptional skills, powerful punches, and versatility in multiple weight classes. As one of the sport’s biggest stars, his fights are global events."
+  },
+  {
+    "objectID": "ali.html",
+    "href": "ali.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "alvarez.html",
+    "href": "alvarez.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

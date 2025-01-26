@@ -1,1 +1,8 @@
 /* css styles */
+img[src="images/logo.png"] {
+    width: px; /* Adjust the width to your preference */
+    height: auto; /* Maintain aspect ratio */
+}
+h1 {
+    text-align: center;
+}
